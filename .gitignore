@@ -6,7 +6,10 @@
 !core/__init__.py
 !core/database.py
 !core/security.py
+!core/auth.py
+!core/i18n.py
 !services/
 !services/__init__.py
 !services/pdf_service.py
 !services/rag_service.py
+!AUTH_SETUP.md
