@@ -1,2 +1,12 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 *
+
+# Application packages
+!core/
+!core/__init__.py
+!core/database.py
+!core/security.py
+!services/
+!services/__init__.py
+!services/pdf_service.py
+!services/rag_service.py
